@@ -1,1 +1,1 @@
-"# interactive_media_design_project" 
+During the first semester of my studies as an exchange student at ELTE I had been attending Interactive media design and development. There we were working on the project: making a website for ELTE students to be able to easily find a desired classroom. Unfortunately, the full project has not been saved on my laptop but there is my part that you may take a look at. I had been developing artificial intelegence: an algorithm for finding the path from the current point (classroom) to the destination.
